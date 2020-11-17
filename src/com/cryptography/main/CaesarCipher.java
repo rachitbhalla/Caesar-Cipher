@@ -1,4 +1,4 @@
-package com.cryptography;
+package com.cryptography.main;
 
 public class CaesarCipher {
 
