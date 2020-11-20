@@ -31,7 +31,7 @@ public class Main {
 
         // call the function CaesarCipher.decrypt() and decrypt the cipherText
         plainText = CaesarCipher.decrypt(cipherText, key);
-        System.out.println(cipherText);
+        System.out.println(plainText);
 
     }
 }
